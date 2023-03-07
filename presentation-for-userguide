@@ -1,0 +1,40 @@
+
+****** RANDOM NUMBER GAME (mini project)******
+
+
+Important	=>Start mysql service start (permission)
+
+Developer	=> CRUD , Databade  and GUI Handle 
+		=>Java(EE)
+		=>IDE (intellij idea)
+		=>Database (mysql)
+			->user
+			->gold
+			->result
+			->order_coil (coin)
+
+Logon Page	=>Admin
+			->For Only One
+			->Login Admin Account
+			->Show Account Info
+			->Sale Game Coin 
+			->Manage User Account
+				->Delete User Account
+			->Show Game History
+			->LogOut
+			
+		
+		
+		=>User
+			->Login
+			->Create New User
+			->Show Account Info
+			->Play Game
+				->Order Coin
+			->Future Plan weight
+			->LogOut
+			
+			
+
+			
+		
